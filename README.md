@@ -118,8 +118,6 @@ El archivo `package.bluej` permite conservar la configuración del proyecto para
 └── README.md
 ```
 
-Los archivos `.class` y la documentación HTML generada automáticamente no son necesarios para mantener el código fuente del proyecto.
-
 ---
 
 ## 🎓 Contexto académico
