@@ -1,0 +1,30 @@
+#BlueJ class context
+#Wed Sep 30 11:03:58 ART 2026
+comment0.target=GestionBiblioteca
+comment1.target=GestionBiblioteca()
+comment10.target=void imprimirCantidadSocios()
+comment11.target=void imprimirListaDocentesResponsables()
+comment12.target=void imprimirListaSocios()
+comment13.target=void imprimirListaLibros()
+comment14.target=void buscarLibroPrestado()
+comment15.target=void registrarSocio()
+comment16.target=void registrarLibro()
+comment17.target=void prestarLibro()
+comment18.target=void devolverLibro()
+comment19.target=void buscarSocioxDni()
+comment2.params=args
+comment2.target=void main(java.lang.String[])
+comment20.target=void expandirPrestamo()
+comment21.target=void darDeBaja()
+comment22.target=void listarVencidos()
+comment3.target=void configurarVentana()
+comment4.target=void configurarPanel()
+comment5.params=g
+comment5.target=void paintComponent(java.awt.Graphics)
+comment6.target=void configurarBiblioteca()
+comment7.target=void establecerBotones()
+comment8.params=texto x y ancho alto accion
+comment8.target=void agregarBoton(java.lang.String, int, int, int, int, java.lang.Runnable)
+comment9.params=e
+comment9.target=void actionPerformed(java.awt.event.ActionEvent)
+numComments=23
